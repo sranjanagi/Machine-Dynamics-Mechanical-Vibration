@@ -18,21 +18,7 @@
         }, 
         "description": {
             "developer": [
-                {
-                    "contact": {
-                        "alternate_email": "", 
-                        "email": "jawahar@iiit.ac.in", 
-                        "mobile_number": "", 
-                        "office_number": ""
-                    }, 
-                    "department": "", 
-                    "institute": "IIIT Hyderabad", 
-                    "name": "Jawahar C.V", 
-                    "organization": "", 
-                    "role": "Lab Developer", 
-                    "title": "", 
-                    "web": ""
-                }, 
+                 
                {
                     "contact": {
                         "alternate_email": "", 
